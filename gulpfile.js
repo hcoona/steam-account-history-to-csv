@@ -33,5 +33,5 @@ gulp.task("build:manifest", function () {
 })
 
 gulp.task("copy:icon", function() {
-  return gulp.src("assets/*.ico").pipe(gulp.dest(destinationFolderPath));
+  return gulp.src("assets/*.png").pipe(gulp.dest(destinationFolderPath));
 })

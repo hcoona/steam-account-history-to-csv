@@ -6,8 +6,8 @@
   "description": "<%= description %>",
 
   "icons": {
-    "32": "icon-32.ico",
-    "48": "icon-48.ico"
+    "32": "icon-32.png",
+    "48": "icon-48.png"
   },
 
   "content_scripts": [
